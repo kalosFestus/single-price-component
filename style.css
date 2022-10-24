@@ -102,6 +102,7 @@ input[type="submit"]{
 @media (max-width: 768px){
     .main-card, header{
         width: 70%;
+        height: unset;
     }
 }
 
